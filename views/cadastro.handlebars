@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="style/estilo.css" rel="stylesheet">
+    <title>FindFood</title>  
+<header>
+        <center> <img src="img/FF.png" width="200" height="150"> 
+        </center>
+    </header>
+   <div class="cadastro">
+    <center><h1><b>Cadastramento de restaurante</b></h1></center>
+</div>
+
+<form action="/cadastro" method="POST">
+    <label for="text"><h3> Nome:</h3></label><br><br>
+    <input type="text" id="fmc" name="nome" placeholder="Digite seu none.."><br><br><br>
+    
+    <label for="text"><h3>Nome do estabelecimento:</h3></label><br><br>
+    <input type="text" id="fmc" name="nomerest"  placeholder="Digite o nome do seu estabelecimento.."><br><br><br>
+    
+    <label for="text"><h3>CNPJ:</h3></label><br><br>
+    <input type="number" id="fmc" name="cnpj"  placeholder="Digite seu CNPJ.."><br><br><br>
+
+    <label for="text"><h3>CEP:</h3></label><br><br>
+    <input type="CEP" id="fmc" name="cep"  placeholder="Digite seu cep.."><br><br><br>
+
+    <label for="text"><h3>Rua/Avenida:</h3></label><br><br>
+    <input type="text" id="fmc" name="ruavenida"  placeholder="Digite o nome da sua rua.."><br><br><br>
+
+    <label for="text"><h3>Cidade:</h3></label><br><br>
+    <input type="text" id="fmc" name="cidade"  placeholder="Digite o nome da sua cidade.."><br><br><br><br>
+
+    <label for="text"><h3>Deseja receber informações via whatsApp?</h3></label><br><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;Sim:  <input type="checkbox" id="sim/nao">    &nbsp; Não: <input type="checkbox" id="sim/nao"> <br>
+    <input type="tel" id="fmc" name="numerotel"  placeholder="Digite seu numero.."><br><br><br>
+
+
+    <label for="text"><h3>E-mail:</h3></label><br><br>
+    <input type="email" id="fmc" name="email"  placeholder="Digite seu e-mail.."><br><br><br>
+
+<label for="text"><h3>senha:</h3></label><br><br>
+    <input type="password" id="fmc" name="senha"  placeholder="Digite sua senha.."><br><br><br>
+
+    <label for="text"><h3>confirmar senha:</h3></label><br><br>
+    <input type="password" id="fmc" name="confirmsenha"  placeholder="Digite sua senha.."><br><br><br>
+
+    <!-- <hr/><hr/> <br><br> 
+  <div class="tipospcd">
+    <center><h1><b>Selecione os tipos de PCDs que seu <br>
+         restaurante atende</b></h1></center><br><br>
+    
+
+         &nbsp;&nbsp; <h2>Tipos de PCDs</h2><br><br>
+                
+         &nbsp;&nbsp; <h3><input type="checkbox" id="tpcd"> Deficiente visual</h3>  <br> 
+         &nbsp;&nbsp; <h3><input type="checkbox" id="tpcd">  Auditivo</h3> <br> 
+         &nbsp;&nbsp; <h3><input type="checkbox" id="tpcd">  Cadeirante</h3> <br> 
+         &nbsp;&nbsp; <h3><input type="checkbox" id="tpcd">  Mudez</h3> <br><br>
+         -->
+         <center><h1><b>Adicione fotos</b></h1></center><br><br>
+        <center> <input type="file" name="fotos"> &nbsp; <input type="file" name="fotos"> &nbsp; <input type="file" name="fotos"> <br><br>
+         <input type="file" name="fotos"> &nbsp; <input type="file" name="fotos"> &nbsp; <input type="file" name="fotos"> <br><br><br>
+        
+         
+         <a href="perfilrestaurante.handlebars"> 
+             <button id="finalizar">Finalizar cadastro</button> </a>
+        </center><br><br><br>
+    </form>
+
+        </div>
+    <div class="final">
+            <img src="img/finalff.png"/>
+</div>

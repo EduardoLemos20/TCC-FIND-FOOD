@@ -1,0 +1,279 @@
+
+*{
+  padding: 0px;
+  margin: 0px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+ul{
+  list-style: none;
+}
+#menu{
+  width: 40px;
+ /*position: fixed;*/
+  
+}
+input[id="chec"]{
+  display: none;
+}
+input[id="pcd"]{
+  cursor: pointer;
+}
+nav{
+  background-color: rgba(rgb(253, 173, 45));
+  width: 200px;
+  height: 20%;
+  top: 70px;
+  left: -200px;
+  position: absolute;/*espaço do menu*/
+}
+input[type="checkbox"]:checked ~ nav {
+transform: translate(200px);
+}
+p{
+  background-color: rgba(255, 157, 0, 0.802);
+  display: block;
+  padding: 20px;
+  color: white;
+  
+}
+
+label{
+ 
+  padding: 15px;
+  position: absolute;
+}
+
+
+header{
+
+
+}
+body{
+  
+   background-image: linear-gradient(180deg, rgb(253, 173, 45)10%, White 30%);
+}/*degrade do fundo do site*/
+
+#divBusca{
+  margin: 0 auto;
+    background-color:white;
+    border:solid 1px rgb(253, 173, 45);
+    border-radius:10px;
+    width:560px;
+    height:32px;
+    
+  }/*barra de pesqusa e a borda*/
+  
+  #txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:5px;
+    font-size:20px;
+    border:none;
+    height:32px;
+    width:480px;
+  }/*texto de pesquisa*/
+  #btlogin{
+    float:left;
+    padding-left:5px;
+    font-size:20px;
+    height:32px;
+    width:80px;
+    margin-top: -32px;
+    margin-left: 600px;
+    cursor: pointer;
+    background:rgb(253, 173, 45);
+    color: white;
+  }
+  #btlogincer{
+    float:left;
+    padding-left:5px;
+    font-size:20px;
+    height:100px;
+    width:300px;
+    background:rgb(253, 173, 45);
+    color: black;
+    cursor: pointer;
+    margin-left: 250px;
+  }
+  #logarrestaurante{
+    float:left;
+    padding-left:5px;
+    font-size:20px;
+    height:70px;
+    width:300px;
+    background:rgb(253, 173, 45);
+    color: black;
+    cursor: pointer;
+    margin-left: 530px;
+  }
+  #logarcliente{
+    float:left;
+    padding-left:5px;
+    font-size:20px;
+    height:70px;
+    width:300px;
+    background:rgb(253, 173, 45);
+    color: black;
+    cursor: pointer;
+    margin-left: 530px;
+  }
+
+  #bteditar{
+    float:left;
+    padding-left:5px;
+    font-size:20px;
+    height:70px;
+    width:300px;
+    background:rgb(253, 173, 45);
+    color: black;
+    cursor: pointer;
+    margin-left: 530px;
+  }
+  #cadastrocliente{
+    float:left;
+    padding-left:5px;
+    font-size:20px;
+    height:70px;
+    width:300px;
+    background:rgb(253, 173, 45);
+    color: black;
+    cursor: pointer;
+    margin-left: 530px;
+  }
+  #logarcadastrocliente{
+    float:left;
+    padding-left:5px;
+    font-size:20px;
+    height:70px;
+    width:300px;
+    background:rgb(253, 173, 45);
+    color: black;
+    cursor: pointer;
+    margin-left: 530px;
+
+  }
+  #btnBusca{
+    border:none;
+    color: rgb(255, 255, 255);
+    float: right;
+    height:32px;
+    border-radius:0 7px 7px 0;
+    width:70px;
+    font-weight:bold;
+    background:rgb(253, 173, 45);
+    cursor: pointer;
+  }/*botao de busca*/
+
+  #enviar{
+    border:none;
+    background:rgb(253, 173, 45);
+    border-radius:0px 0px 0px 0px;
+    color:black;
+    margin-left: 6px;
+    cursor: pointer;
+  }
+
+  .botao{
+    margin: 20px;
+    padding: 20px;
+    margin-left: 300px;
+
+}/*pisicao da imagem grande*/
+
+
+div.gallery {
+  margin: 20px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 500px;
+  margin-left: 100px;
+  
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 500px;
+  height: 400px;
+}/*altura e largura da imagem*/
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+.cadastro{
+  color: #777;
+
+}
+h3{
+  color: #777;
+}
+input[id="sim/nao"]{
+  cursor: pointer;
+}
+#fmc{
+  padding: 5px;
+  margin: 15px;
+  width: 500px;
+  border-radius: 2px 2px 2px 2px;
+}
+
+.tipospcd{
+  color: #777;
+}
+#finalizar{
+  background-color: rgb(243, 129, 7);
+  border-radius:5px 5px 5px 5px;
+  width: 200px;
+  height: 30px;
+  color: white;
+  cursor: pointer;
+}
+.final{
+  
+  margin-left: 300px;
+  width: 700px;
+  height: 50px;
+}
+.fotoRestaurante{
+  margin: 20px;
+  padding: 20px;
+  margin-left: 300px;
+}
+/*perfil restaurante */
+.nomeedesc{
+  padding: 5px;
+  margin-left: 320px;
+  font-size: 20px;
+}
+
+.localizaçao{
+  padding: 5px;
+  margin-left: 320px;
+  font-size: 20px;
+  margin-top: -35px;
+    margin-left: 800px;
+}
+.telefonerestaurante{
+  padding: 5px;
+  margin-left: 320px;
+  font-size: 20px;
+}
+.emailrestaurante{
+  padding: 5px;
+  margin-left: 320px;
+  font-size: 20px;
+  margin-top: -35px;
+    margin-left: 800px;
+}
+.pcdrestaurante{
+  padding: 5px;
+  margin-left: 320px;
+  font-size: 20px;
+}
