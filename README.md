@@ -73,13 +73,8 @@ e nao sabe aonde encontrar o melho lugar para ir, os proprietários e donos dos 
 
 ### Info Redes
 * Eduardo [![GitHub Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/EduardoLemos20)  
-
 * Everton [![GitHub Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https)](https://github.com)
-          [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-guilherme-639510160)](linkedin.com/in/everton-guilherme-639510160)
 * Henrique Bezerra [![GitHub Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com)
-
 * Henrique Cavalcante [![GitHub Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com)
-
 * Victor [![GitHub Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com)
-
 * Everton [![GitHub Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com)
