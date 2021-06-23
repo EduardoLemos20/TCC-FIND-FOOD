@@ -19,14 +19,32 @@ e nao sabe aonde encontrar o melho lugar para ir, os proprietários e donos dos 
 ![image](https://user-images.githubusercontent.com/69824321/123019166-54764100-d3a6-11eb-8925-fe047ab9700b.png)
 
 ## Atores(use case)
-- [x] Restaurante
-- [x] Cliente
+* Restaurante
+* Cliente
 
 ## Funcional 
 
-* Cadatrar o restaurante
-* Logar restaurante
-* Buscar restaurante 
+- [x] Cadatrar o restaurante
+- [x] Logar restaurante
+- [x] Buscar restaurante 
+
+## Banco de dados
+
+
+# Apresentação do nosso sistema em imagens
+## Home
+![image](https://user-images.githubusercontent.com/69824321/123023524-e59ce600-d3ad-11eb-9fe9-2a3b11ccf94e.png)
+## Home+Filtro 
+![image](https://user-images.githubusercontent.com/69824321/123023733-46c4b980-d3ae-11eb-9203-faa1c9059e84.png)
+## Cadastro 1
+![image](https://user-images.githubusercontent.com/69824321/123023793-6956d280-d3ae-11eb-8a1b-2a9da2d3e696.png)
+## Cadastro 1.1
+![image](https://user-images.githubusercontent.com/69824321/123023832-7bd10c00-d3ae-11eb-8c3d-b93e6e0e18af.png)
+## Login
+![image](https://user-images.githubusercontent.com/69824321/123023859-8ab7be80-d3ae-11eb-8016-46060be12ab0.png)
+## Restaurante
+![image](https://user-images.githubusercontent.com/69824321/123024019-cc486980-d3ae-11eb-871b-40d983e86601.png)
+
 
 ###  Equipe:
 Eduardo Araújo dos Santos Lemos RA: 116729 (DEV)
