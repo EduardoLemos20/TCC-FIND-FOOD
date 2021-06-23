@@ -2,15 +2,14 @@
 
 ![image](https://user-images.githubusercontent.com/69824321/123015593-1a557100-d39f-11eb-8c2c-1f6a14399eb6.png)
 
+###  1.Apresentaçao:
+O FindFood é um site para as pessos que viajam para alguma lucalidade que nao conhece e tem interece em almoçar ou jantar em algum restaurante 
+e nao sabe aonde encontrar o melho lugar para ir, os proprietários e donos dos restaurantes podem cadastrar o próprio comércio em nossa plataforma para uma possível busca de algum cliente em sua localidade em um raio de até 15Km.   
 
- ## FindFood:
-###  Apresentaçao:
-Nosso site é um meio de reserva de restaurantes mais
-proximos.
-O FindFood é um site para as pessos que viajam para algum lugar que nao conhece e tem interece em almoçar ou jantar em algum restaurante 
-e nao sabe aonde encontrar o melho lugar para ir, no FindFood as pessoas conssegem encontar
-os melhores restaurantes e fazer reservas entrando em contato com o restaurante.   
-   
+| Everton        |
+|----------------|
+|
+|
 ###  Equipe:
 Eduardo Araújo dos Santos Lemos RA: 116729 (DEV)
 Henrique Bezerra Cavalcante RA:0045990 (DBA)
