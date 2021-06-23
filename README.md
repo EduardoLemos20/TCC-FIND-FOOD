@@ -60,7 +60,7 @@ e nao sabe aonde encontrar o melho lugar para ir, os proprietários e donos dos 
 ![image](https://user-images.githubusercontent.com/69824321/123024019-cc486980-d3ae-11eb-871b-40d983e86601.png)
 
 
-## 𝐹𝐼𝐺𝑀𝐴: encurtador.com.br/fjnF7
+## 𝐹𝐼𝐺𝑀𝐴: https://cutt.ly/fn8EAro
 
 | Linguagens utilizadas|
 |---------------------------------|
