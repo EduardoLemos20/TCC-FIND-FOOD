@@ -60,12 +60,16 @@ e nao sabe aonde encontrar o melho lugar para ir, os proprietários e donos dos 
 ![image](https://user-images.githubusercontent.com/69824321/123024019-cc486980-d3ae-11eb-871b-40d983e86601.png)
 
 
+## 𝐹𝐼𝐺𝑀𝐴: encurtador.com.br/fjnF7
 
+| Linguagens utilizadas|
+|---------------------------------|
+|Node                             |
+|HTML                             |
+|Handlebars                       |
+|JavaScript                       |
+|CSS                              |
 
-
-### FIGMA: https://www.figma.com/file/ZWbxdPLnvNE1RoWwPjXsv6/Untitled?node-id=1152%3A496
-
-### Linguagens de programação usadas: Node, HTML, Handlebars, JavaScript, CSS
 
 ### Banco de dados: MySql
 
