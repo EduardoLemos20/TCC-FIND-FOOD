@@ -9,15 +9,11 @@ e nao sabe aonde encontrar o melho lugar para ir, os proprietários e donos dos 
 | Integrantes    | Função          |
 |----------------|-----------------|
 | Everton        | DEV/PO/QA/DBA   |
-|----------------|-----------------|
 | Eduardo        | DEV/PO/QA/DBA   |
-|----------------|-----------------|
 | Victor         | DBA             |
-|----------------|-----------------|
 | Henrique Anjos | UX              |
-|----------------|-----------------|
 |Henrique Bezerra| DBA             |
-|----------------|-----------------|
+
 ###  Equipe:
 Eduardo Araújo dos Santos Lemos RA: 116729 (DEV)
 Henrique Bezerra Cavalcante RA:0045990 (DBA)
