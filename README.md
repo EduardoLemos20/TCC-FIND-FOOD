@@ -1,6 +1,5 @@
-# WEBData de criação:14/09/2020
-Data da última alteração:22/09/2020
-versão:1.0
+# 𝓕𝓘𝓝𝓓𝓕𝓞𝓞𝓓
+
 
 
  ## FindFood:
