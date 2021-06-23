@@ -13,6 +13,20 @@ e nao sabe aonde encontrar o melho lugar para ir, os proprietários e donos dos 
 | Victor         | DBA             |
 | Henrique Anjos | UX              |
 |Henrique Bezerra| DBA             |
+# ESPECIFICAÇÃO DO SITE
+
+## Use case
+![image](https://user-images.githubusercontent.com/69824321/123019166-54764100-d3a6-11eb-8925-fe047ab9700b.png)
+
+## Atores(use case)
+- [x] Restaurante
+- [x] Cliente
+
+## Funcional 
+
+* Cadatrar o restaurante
+* Logar restaurante
+* Buscar restaurante 
 
 ###  Equipe:
 Eduardo Araújo dos Santos Lemos RA: 116729 (DEV)
