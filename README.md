@@ -65,7 +65,7 @@ e nao sabe aonde encontrar o melho lugar para ir, os proprietários e donos dos 
 
 | Linguagens utilizadas|
 |---------------------------------|
-|Node                             |
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>|
 |HTML                             |
 |Handlebars                       |
 |JavaScript                       |
