@@ -7,6 +7,7 @@ O FindFood é um site para as pessos que viajam para alguma lucalidade que nao c
 e nao sabe aonde encontrar o melho lugar para ir, os proprietários e donos dos restaurantes podem cadastrar o próprio comércio em nossa plataforma para uma possível busca de algum cliente em sua localidade em um raio de até 15Km.   
  
 | Integrantes    | Função          |
+|----------------|-----------------|
 | Everton        | DEV/PO/QA/DBA   |
 | Eduardo        | DEV/PO/QA/DBA   |
 | Victor         | DBA             |
